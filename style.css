@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    background-color: #ddd
+}
+
+body{
+    text-align: center;
+    margin-top: 12px;
+}
+
+.sect{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.a-1{
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.h1-1{          
+    margin-top: 25px;
+    font-size: 43px;
+}
+
+.img-1{
+    width: 600px;
+    height: auto;
+    margin-top: 30px;
+}
+
+.advantages{
+    font-size: x-large;
+}
+
+.h2-1{
+    margin-top: 40px;
+    background-color: black;
+}
+
+.div-1{
+    width: 98%;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    margin-top: 50px;
+    margin-bottom: 17px;
+}
+
+.a-2{
+    background-color: black;
+    text-decoration: underline;
+    margin-top: 20px;
+}
